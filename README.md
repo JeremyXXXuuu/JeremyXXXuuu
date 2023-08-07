@@ -1,13 +1,13 @@
-### Hi there 👋
-### Hello World :computer:
+### Hi there I'm Huamao XU 👋
+###  :computer:
 
-- 🔭 I’m currently studying at <a href="https://www.utbm.fr">UTBM</a> in France after an bachelor degree at <a href="http://shu.admissions.cn/">Shanghai University </a>  
-- :rocket: Currently learning about Data Science & Full stack Development.
-- :mortar_board: Bachelor in Software Dev from <a href="http://shu.admissions.cn">SHU</a>. 
-
+- 🔭 Currently, I'm pursuing a Master's degree in Computer Science/Engineering 💻 at a <a href="https://www.groupe-ut.fr"> UT </a> in France after an bachelor degree at <a href="http://shu.admissions.cn/">Shanghai University </a>  
+- 🔭 I’m a passionate software engineer with a strong background in web and backend development. 
+- :rocket: Currently as a solo developer leveraging the OpenAI API to create innovative products & Full stack Developper.
+- :mortar_board: Matser(ingénieur) in <a href="https://www.groupe-ut.fr"> UT </a>; Bachelor in Software Dev from <a href="http://shu.admissions.cn">SHU</a>.
+- 🌱 I’m currently learning Nextjs, trpc, openAI, openAI-whisper...
 
 🛠️**Skills :floppy_disk:**
-
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
@@ -15,8 +15,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cuda.svg"></code>
-
-
 
 <!--
 **JeremyXXXuuu/JeremyXXXuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
